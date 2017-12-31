@@ -1,0 +1,144 @@
+[
+    {
+        "username": "angel",
+        "email": "albertoangelaguilera@gmail.com",
+        "password": "contra",
+        "direccion": "Lindavista",
+        "pregunta": "sushi",
+        "imagen": "angel.jpg"
+    },
+    {
+        "username": "mamas",
+        "email": "mamas@gmail.com",
+        "password": "mamado",
+        "direccion": "Ticoman",
+        "pregunta": "tacos",
+        "imagen": "gabriel.jpg"
+    },
+    {
+        "username": "angie",
+        "email": "angie@gmail.com",
+        "password": "angie",
+        "direccion": "Vallejo",
+        "pregunta": "angel",
+        "imagen": "angie.jpg"
+    },
+    {
+        "username": "pedraza",
+        "email": "pedraza@gmail.com",
+        "password": "uber",
+        "direccion": "Naucalpan",
+        "pregunta": "pene"
+    },
+    {
+        "username": "pedrazall",
+        "email": "pedraza@gmail.com",
+        "password": "uber",
+        "direccion": "Naucalpan",
+        "pregunta": "pene"
+    },
+    {
+        "username": "ss",
+        "email": "sss@gmail.com",
+        "password": "Alberto123",
+        "direccion": "Aa",
+        "pregunta": "AA",
+        "imagen": "ss"
+    },
+    {
+        "username": "Porfe",
+        "email": "benitez@gmail.com",
+        "password": "Alberto123",
+        "direccion": "ww",
+        "pregunta": "ww",
+        "imagen": "Porfe"
+    },
+    {
+        "username": "Diego",
+        "email": "diego@gmail.com",
+        "password": "Diego123",
+        "direccion": "Tlane",
+        "pregunta": "Mixiote",
+        "imagen": "Diego"
+    },
+    {
+        "username": "Erasmo",
+        "email": "eramos@gmail.com",
+        "password": "Eramos123",
+        "direccion": "Zacatlan de las Manzanas, Puebla",
+        "pregunta": "Manzanas",
+        "imagen": "Erasmo"
+    },
+    {
+        "username": "Oscar",
+        "email": "Oscar_Rodirguez@gmail.com",
+        "password": "OscarGabriel1",
+        "direccion": "ticoman",
+        "pregunta": "tacos",
+        "imagen": "Oscar "
+    },
+    {
+        "username": "Rigoberto",
+        "email": "rigo@gmail.com",
+        "password": "Rigoberto123",
+        "direccion": "Pantitlan",
+        "pregunta": "Sushi",
+        "imagen": "Rigoberto"
+    },
+    {
+        "username": "Pedro",
+        "email": "ped@gmail.com",
+        "password": "Pedro123",
+        "direccion": "Portugal",
+        "pregunta": "caipirinha",
+        "imagen": "Pedro"
+    },
+    {
+        "username": "carlos_sosa",
+        "email": "carlos@gmail.com",
+        "password": "Carlos123",
+        "direccion": "Oaxaca",
+        "pregunta": "mole",
+        "imagen": "carlos_sosa"
+    },
+    {
+        "username": "FelipeG",
+        "email": "felipe@gmail.com",
+        "password": "Felipe2000",
+        "direccion": "Zacatenco",
+        "pregunta": "nose",
+        "imagen": "FelipeG"
+    },
+    {
+        "username": "tele",
+        "email": "tele@gmail.net",
+        "password": "Telematica123",
+        "direccion": "Barrio La Laguna",
+        "pregunta": "palomitas",
+        "imagen": "tele"
+    },
+    {
+        "username": "Brian",
+        "email": "deerthen.mp36@gmail.com",
+        "password": "12345678aB",
+        "direccion": "Tu coraz\u00f3n",
+        "pregunta": "Tacos",
+        "imagen": "Brian"
+    },
+    {
+        "username": "hola",
+        "email": "hola@gmail.com",
+        "password": "Telematica123",
+        "direccion": "jaja",
+        "pregunta": "jojo",
+        "imagen": "hola"
+    },
+    {
+        "username": "GUALBERTO",
+        "email": "guali@gmail.com",
+        "password": "Gualberto123",
+        "direccion": "LomasTurbias",
+        "pregunta": "tacos",
+        "imagen": "GUALBERTO"
+    }
+]

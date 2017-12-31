@@ -1,0 +1,266 @@
+[
+  {
+    "nombre": "Birria",
+
+    "imagen": "birria.jpg",
+    "precio":"200",
+
+    "id": "Mex1"
+  },
+
+  {
+    "nombre": "carnitas",
+
+    "imagen": "carnitas.jpg",
+    "precio":"10",
+
+    "id": "Mex2"
+  },
+
+  {
+    "nombre": "garnachas",
+
+    "imagen": "garnachas.jpg",
+    "precio":"11",
+
+    "id": "Mex3"
+  },
+  {
+    "nombre": "mole",
+
+    "imagen": "mole.jpg",
+    "precio":"19",
+
+    "id": "Mex4"
+  },
+  {
+    "nombre": "pozole",
+
+    "imagen": "pozole.jpg",
+    "precio":"155",
+
+    "id": "Mex5"
+  },
+  {
+    "nombre": "tacosalpastor",
+
+    "imagen": "tacosalpastor.jpg",
+    "precio":"80",
+
+    "id": "Mex6"
+  },
+  {
+    "nombre": "tacosdorados",
+
+    "imagen": "tacosdorados.jpg",
+    "precio":"75",
+
+    "id": "Mex7"
+  },
+  {
+    "nombre": "tamales",
+
+    "imagen": "tamales.jpg",
+    "precio":"107",
+
+    "id": "Mex8"
+  },
+  {
+    "nombre": "Birria",
+
+    "imagen": "birria.jpg",
+    "precio":"200",
+
+    "id": "Mex1"
+  },
+
+  {
+    "nombre": "carnitas",
+
+    "imagen": "carnitas.jpg",
+    "precio":"10",
+
+    "id": "Mex2"
+  },
+
+  {
+    "nombre": "garnachas",
+
+    "imagen": "garnachas.jpg",
+    "precio":"11",
+
+    "id": "Mex3"
+  },
+  {
+    "nombre": "mole",
+
+    "imagen": "mole.jpg",
+    "precio":"19",
+
+    "id": "Mex4"
+  },
+  {
+    "nombre": "pozole",
+
+    "imagen": "pozole.jpg",
+    "precio":"155",
+
+    "id": "Mex5"
+  },
+  {
+    "nombre": "tacosalpastor",
+
+    "imagen": "tacosalpastor.jpg",
+    "precio":"80",
+
+    "id": "Mex6"
+  },
+  {
+    "nombre": "tacosdorados",
+
+    "imagen": "tacosdorados.jpg",
+    "precio":"75",
+
+    "id": "Mex7"
+  },
+  {
+    "nombre": "tamales",
+
+    "imagen": "tamales.jpg",
+    "precio":"107",
+
+    "id": "Mex8"
+  },
+  {
+    "nombre": "Birria",
+
+    "imagen": "birria.jpg",
+    "precio":"200",
+
+    "id": "Mex1"
+  },
+
+  {
+    "nombre": "carnitas",
+
+    "imagen": "carnitas.jpg",
+    "precio":"10",
+
+    "id": "Mex2"
+  },
+
+  {
+    "nombre": "garnachas",
+
+    "imagen": "garnachas.jpg",
+    "precio":"11",
+
+    "id": "Mex3"
+  },
+  {
+    "nombre": "mole",
+
+    "imagen": "mole.jpg",
+    "precio":"19",
+
+    "id": "Mex4"
+  },
+  {
+    "nombre": "pozole",
+
+    "imagen": "pozole.jpg",
+    "precio":"155",
+
+    "id": "Mex5"
+  },
+  {
+    "nombre": "tacosalpastor",
+
+    "imagen": "tacosalpastor.jpg",
+    "precio":"80",
+
+    "id": "Mex6"
+  },
+  {
+    "nombre": "tacosdorados",
+
+    "imagen": "tacosdorados.jpg",
+    "precio":"75",
+
+    "id": "Mex7"
+  },
+  {
+    "nombre": "tamales",
+
+    "imagen": "tamales.jpg",
+    "precio":"107",
+
+    "id": "Mex8"
+  },
+  {
+    "nombre": "Birria",
+
+    "imagen": "birria.jpg",
+    "precio":"200",
+
+    "id": "Mex1"
+  },
+
+  {
+    "nombre": "carnitas",
+
+    "imagen": "carnitas.jpg",
+    "precio":"10",
+
+    "id": "Mex2"
+  },
+
+  {
+    "nombre": "garnachas",
+
+    "imagen": "garnachas.jpg",
+    "precio":"11",
+
+    "id": "Mex3"
+  },
+  {
+    "nombre": "mole",
+
+    "imagen": "mole.jpg",
+    "precio":"19",
+
+    "id": "Mex4"
+  },
+  {
+    "nombre": "pozole",
+
+    "imagen": "pozole.jpg",
+    "precio":"155",
+
+    "id": "Mex5"
+  },
+  {
+    "nombre": "tacosalpastor",
+
+    "imagen": "tacosalpastor.jpg",
+    "precio":"80",
+
+    "id": "Mex6"
+  },
+  {
+    "nombre": "tacosdorados",
+
+    "imagen": "tacosdorados.jpg",
+    "precio":"75",
+
+    "id": "Mex7"
+  },
+  {
+    "nombre": "tamales",
+
+    "imagen": "tamales.jpg",
+    "precio":"107",
+
+    "id": "Mex8"
+  }
+]

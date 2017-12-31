@@ -1,0 +1,64 @@
+
+
+
+	    [
+
+	      {
+
+	         "nombre": "Sushi",
+
+	         "imagen": "sushi.jpg",
+
+					 "precio":"0",
+
+					 "id": "0"
+
+	      },
+
+	      {
+        "nombre": "Tacos",
+
+	         "imagen": "tacos.jpeg",
+
+					 "precio":"0",
+
+					"id": "0"
+
+	      },
+
+	      {
+
+	         "nombre": "Exotica",
+
+	         "imagen": "exotica.jpg",
+
+					 "precio":"0",
+
+					"id": "0"
+
+	      },
+				{
+
+					"nombre": "Gourmet",
+
+					"imagen": "gourmet.jpg",
+
+					"precio":"0",
+
+					"id": "0"
+
+			 },
+			 {
+
+				 "nombre": "Pizza",
+
+				 "imagen": "pizza.jpg",
+				 "precio":"0",
+
+				 "id": "0"
+
+			}
+
+
+
+	  ]

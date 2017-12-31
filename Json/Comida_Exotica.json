@@ -1,0 +1,200 @@
+[
+  {
+    "nombre": "aloo gobi",
+
+    "imagen": "aloo_gobi.jpg",
+    "precio":"250",
+
+    "id": "Exo1"
+  },
+
+  {
+    "nombre": "Baati",
+
+    "imagen": "Baati.jpg",
+    "precio":"130",
+
+    "id": "Exo2"
+  },
+
+  {
+    "nombre": "bhatura",
+
+    "imagen": "bhatura.jpg",
+    "precio":"222",
+
+    "id": "Exo3"
+  },
+  {
+    "nombre": "biryani",
+
+    "imagen": "biryani.jpg",
+    "precio":"190",
+
+    "id": "Exo4"
+  },
+  {
+    "nombre": "chaat",
+
+    "imagen": "chaat.jpg",
+    "precio":"153",
+
+    "id": "Exo5"
+  },
+  {
+    "nombre": "chana_masala",
+
+    "imagen": "chana_masala.jpg",
+    "precio":"800",
+
+    "id": "Exo6"
+  },
+  {
+    "nombre": "falooda",
+
+    "imagen": "falooda.jpg",
+    "precio":"85",
+
+    "id": "Exo7"
+  },
+  {
+    "nombre": "Pollo_tandoori",
+
+    "imagen": "Pollo_tandoori.jpg",
+    "precio":"1207",
+
+    "id": "Exo8"
+  },
+  {
+    "nombre": "aloo gobi",
+
+    "imagen": "aloo_gobi.jpg",
+    "precio":"250",
+
+    "id": "Exo1"
+  },
+
+  {
+    "nombre": "Baati",
+
+    "imagen": "Baati.jpg",
+    "precio":"130",
+
+    "id": "Exo2"
+  },
+
+  {
+    "nombre": "bhatura",
+
+    "imagen": "bhatura.jpg",
+    "precio":"222",
+
+    "id": "Exo3"
+  },
+  {
+    "nombre": "biryani",
+
+    "imagen": "biryani.jpg",
+    "precio":"190",
+
+    "id": "Exo4"
+  },
+  {
+    "nombre": "chaat",
+
+    "imagen": "chaat.jpg",
+    "precio":"153",
+
+    "id": "Exo5"
+  },
+  {
+    "nombre": "chana_masala",
+
+    "imagen": "chana_masala.jpg",
+    "precio":"800",
+
+    "id": "Exo6"
+  },
+  {
+    "nombre": "falooda",
+
+    "imagen": "falooda.jpg",
+    "precio":"85",
+
+    "id": "Exo7"
+  },
+  {
+    "nombre": "Pollo_tandoori",
+
+    "imagen": "Pollo_tandoori.jpg",
+    "precio":"1207",
+
+    "id": "Exo8"
+  },
+  {
+    "nombre": "aloo gobi",
+
+    "imagen": "aloo_gobi.jpg",
+    "precio":"250",
+
+    "id": "Exo1"
+  },
+
+  {
+    "nombre": "Baati",
+
+    "imagen": "Baati.jpg",
+    "precio":"130",
+
+    "id": "Exo2"
+  },
+
+  {
+    "nombre": "bhatura",
+
+    "imagen": "bhatura.jpg",
+    "precio":"222",
+
+    "id": "Exo3"
+  },
+  {
+    "nombre": "biryani",
+
+    "imagen": "biryani.jpg",
+    "precio":"190",
+
+    "id": "Exo4"
+  },
+  {
+    "nombre": "chaat",
+
+    "imagen": "chaat.jpg",
+    "precio":"153",
+
+    "id": "Exo5"
+  },
+  {
+    "nombre": "chana_masala",
+
+    "imagen": "chana_masala.jpg",
+    "precio":"800",
+
+    "id": "Exo6"
+  },
+  {
+    "nombre": "falooda",
+
+    "imagen": "falooda.jpg",
+    "precio":"85",
+
+    "id": "Exo7"
+  },
+  {
+    "nombre": "Pollo_tandoori",
+
+    "imagen": "Pollo_tandoori.jpg",
+    "precio":"1207",
+
+    "id": "Exo8"
+  }
+]

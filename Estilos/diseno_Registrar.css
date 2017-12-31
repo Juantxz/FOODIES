@@ -1,0 +1,129 @@
+body {
+  background-color: #fff5ee;
+}
+
+@font-face {
+  font-family: "Quicksand";
+  src: url("../Fuentes/Quicksand-Regular.ttf");
+}
+
+h1.m13 {
+  font-family: "Quicksand";
+  text-align: center;
+  color: #FE6F5E;
+  margin: 0;
+  letter-spacing: 10px;
+  font-size: 80px;
+  font-weight: bold;
+}
+
+div.Registrar {
+  position: relative;
+  width: 60%;
+  height: 450px;
+  border: 5px solid black;
+  padding: 20px;
+  font-size: 20px;
+  font-family: "Raleway";
+  color: black;
+  text-align: center;
+  top: 50px;
+  margin: auto;
+}
+
+#Titulo_Registro {
+  position: relative;
+  font-family: "Quicksand";
+  color: #FE6F5E;
+  text-align: center;
+  top: -30px;
+  font-size: 25px;
+  font-weight: bold;
+}
+
+#imagen_usuario {
+  position: relative;
+  right: -5px;
+  top: -7px;
+}
+
+input#reg_usuario {
+  position: relative;
+  top: -20px;
+}
+
+#imagen_correo {
+  position: relative;
+  right: -5px;
+  top: -20px;
+}
+
+input#reg_mail {
+  position: relative;
+  top: -30px;
+}
+
+#imagen_clave {
+  position: relative;
+  right: -5px;
+  top: -30px;
+}
+
+input#reg_clave {
+  position: relative;
+  top: -40px;
+}
+
+#imagen_clave_conf {
+  position: relative;
+  right: -5px;
+  top: -40px;
+}
+
+input#reg_clave_conf {
+  position: relative;
+  top: -50px;
+}
+
+#imagen_casa {
+  position: relative;
+  right: -5px;
+  top: -50px;
+}
+
+input#reg_casa {
+  position: relative;
+  top: -60px;
+}
+
+#imagen_preg {
+  position: relative;
+  right: -5px;
+  top: -60px;
+}
+
+input#reg_preg {
+  position: relative;
+  top: -70px;
+}
+
+#b_registrar {
+  background-color: #FE6F5E;
+  border: none;
+  color: white;
+  position: relative;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: auto;
+  top: -80px;
+  right: -55px;
+}
+
+#imagen_regresar {
+  position: relative;
+  right: 350px;
+  top: -58px;
+}

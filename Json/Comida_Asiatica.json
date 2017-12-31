@@ -1,0 +1,200 @@
+[
+  {
+    "nombre": "arrozfrito",
+
+    "imagen": "arrozfrito.jpg",
+    "precio":"250",
+
+    "id": "Asn1"
+  },
+
+  {
+    "nombre": "chowmain",
+
+    "imagen": "chowmain.jpg",
+    "precio":"103",
+
+    "id": "Asn2"
+  },
+
+  {
+    "nombre": "costillasagridulce",
+
+    "imagen": "costillasagridulce.jpg",
+    "precio":"141",
+
+    "id": "Asn3"
+  },
+  {
+    "nombre": "kpop",
+
+    "imagen": "kpop.jpg",
+    "precio":"219",
+
+    "id": "Asn4"
+  },
+  {
+    "nombre": "nigiri",
+
+    "imagen": "nigiri.jpg",
+    "precio":"155",
+
+    "id": "Asn5"
+  },
+  {
+    "nombre": "rollo_primavera",
+
+    "imagen": "rollo_primavera.png",
+    "precio":"180",
+
+    "id": "Asn6"
+  },
+  {
+    "nombre": "sushi_california",
+
+    "imagen": "sushi_california.jpg",
+    "precio":"175",
+
+    "id": "Asn7"
+  },
+  {
+    "nombre": "temaki",
+
+    "imagen": "temaki.jpg",
+    "precio":"157",
+
+    "id": "Asn8"
+  },
+  {
+    "nombre": "arrozfrito",
+
+    "imagen": "arrozfrito.jpg",
+    "precio":"250",
+
+    "id": "Asn1"
+  },
+
+  {
+    "nombre": "chowmain",
+
+    "imagen": "chowmain.jpg",
+    "precio":"103",
+
+    "id": "Asn2"
+  },
+
+  {
+    "nombre": "costillasagridulce",
+
+    "imagen": "costillasagridulce.jpg",
+    "precio":"141",
+
+    "id": "Asn3"
+  },
+  {
+    "nombre": "kpop",
+
+    "imagen": "kpop.jpg",
+    "precio":"219",
+
+    "id": "Asn4"
+  },
+  {
+    "nombre": "nigiri",
+
+    "imagen": "nigiri.jpg",
+    "precio":"155",
+
+    "id": "Asn5"
+  },
+  {
+    "nombre": "rollo_primavera",
+
+    "imagen": "rollo_primavera.png",
+    "precio":"180",
+
+    "id": "Asn6"
+  },
+  {
+    "nombre": "sushi_california",
+
+    "imagen": "sushi_california.jpg",
+    "precio":"175",
+
+    "id": "Asn7"
+  },
+  {
+    "nombre": "temaki",
+
+    "imagen": "temaki.jpg",
+    "precio":"157",
+
+    "id": "Asn8"
+  },
+  {
+    "nombre": "arrozfrito",
+
+    "imagen": "arrozfrito.jpg",
+    "precio":"250",
+
+    "id": "Asn1"
+  },
+
+  {
+    "nombre": "chowmain",
+
+    "imagen": "chowmain.jpg",
+    "precio":"103",
+
+    "id": "Asn2"
+  },
+
+  {
+    "nombre": "costillasagridulce",
+
+    "imagen": "costillasagridulce.jpg",
+    "precio":"141",
+
+    "id": "Asn3"
+  },
+  {
+    "nombre": "kpop",
+
+    "imagen": "kpop.jpg",
+    "precio":"219",
+
+    "id": "Asn4"
+  },
+  {
+    "nombre": "nigiri",
+
+    "imagen": "nigiri.jpg",
+    "precio":"155",
+
+    "id": "Asn5"
+  },
+  {
+    "nombre": "rollo_primavera",
+
+    "imagen": "rollo_primavera.png",
+    "precio":"180",
+
+    "id": "Asn6"
+  },
+  {
+    "nombre": "sushi_california",
+
+    "imagen": "sushi_california.jpg",
+    "precio":"175",
+
+    "id": "Asn7"
+  },
+  {
+    "nombre": "temaki",
+
+    "imagen": "temaki.jpg",
+    "precio":"157",
+
+    "id": "Asn8"
+  }
+]

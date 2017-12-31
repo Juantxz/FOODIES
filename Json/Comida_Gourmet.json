@@ -1,0 +1,134 @@
+[
+  {
+    "nombre": "cabrito",
+
+    "imagen": "cabrito.jpg",
+    "precio":"240",
+
+    "id": "Gmt1"
+  },
+
+  {
+    "nombre": "camarones",
+
+    "imagen": "camarones.jpg",
+    "precio":"1100",
+
+    "id": "Gmt2"
+  },
+
+  {
+    "nombre": "carnebbq",
+
+    "imagen": "carnebbq.jpg",
+    "precio":"346",
+
+    "id": "Gmt3"
+  },
+  {
+    "nombre": "hambur",
+
+    "imagen": "hambur.jpg",
+    "precio":"49",
+
+    "id": "Gmt4"
+  },
+  {
+    "nombre": "lasaña",
+
+    "imagen": "lasaña.jpg",
+    "precio":"155",
+
+    "id": "Gmt5"
+  },
+  {
+    "nombre": "pasta",
+
+    "imagen": "pasta.png",
+    "precio":"80",
+
+    "id": "Gmt6"
+  },
+  {
+    "nombre": "pavo",
+
+    "imagen": "pavo.jpg",
+    "precio":"175",
+
+    "id": "Gmt7"
+  },
+  {
+    "nombre": "pulpo",
+
+    "imagen": "pulpo.jpg",
+    "precio":"1017",
+
+    "id": "Gmt8"
+  },
+  {
+    "nombre": "cabrito",
+
+    "imagen": "cabrito.jpg",
+    "precio":"240",
+
+    "id": "Gmt1"
+  },
+
+  {
+    "nombre": "camarones",
+
+    "imagen": "camarones.jpg",
+    "precio":"1100",
+
+    "id": "Gmt2"
+  },
+
+  {
+    "nombre": "carnebbq",
+
+    "imagen": "carnebbq.jpg",
+    "precio":"346",
+
+    "id": "Gmt3"
+  },
+  {
+    "nombre": "hambur",
+
+    "imagen": "hambur.jpg",
+    "precio":"49",
+
+    "id": "Gmt4"
+  },
+  {
+    "nombre": "lasaña",
+
+    "imagen": "lasaña.jpg",
+    "precio":"155",
+
+    "id": "Gmt5"
+  },
+  {
+    "nombre": "pasta",
+
+    "imagen": "pasta.png",
+    "precio":"80",
+
+    "id": "Gmt6"
+  },
+  {
+    "nombre": "pavo",
+
+    "imagen": "pavo.jpg",
+    "precio":"175",
+
+    "id": "Gmt7"
+  },
+  {
+    "nombre": "pulpo",
+
+    "imagen": "pulpo.jpg",
+    "precio":"1017",
+
+    "id": "Gmt8"
+  }
+]

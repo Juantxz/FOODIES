@@ -1,0 +1,176 @@
+body {
+  background-color: #fff5ee;
+}
+
+
+@font-face {
+  font-family: "Quicksand";
+  src: url("../Fuentes/Quicksand-Regular.ttf");
+}
+html{
+  font-family: "Quicksand";
+
+}
+
+h1.m13 {
+  font-family: "Quicksand";
+  text-align: center;
+  color: #FE6F5E;
+  margin: 0;
+  letter-spacing: 10px;
+  font-size: 80px;
+  font-weight: bold;
+}
+
+div.pasos {
+  position: relative;
+  width: 75%;
+  height: 500px;
+  border: 5px solid black;
+  padding: 20px;
+  font-size: 20px;
+  font-family: "Raleway";
+  color: black;
+  text-align: center;
+  top: 0px;
+  margin: auto;
+}
+
+#Titulo_Pasos {
+  position: relative;
+  font-family: "Quicksand";
+  color: #FE6F5E;
+  text-align: center;
+  top: -30px;
+  font-size: 35px;
+  font-weight: bold;
+}
+
+
+#titulopaso1{
+  position: relative;
+  font-family: "Quicksand";
+  color: #FE6F5E;
+  text-align: left;
+  top: -35px;
+  font-size: 25px;
+  font-weight: bold;
+}
+
+#textopaso1{
+  position: relative;
+  text-decoration: none;
+  color: #2E2EFE;
+  text-align: center;
+  top: -50px;
+  left: -20%;
+  font-weight: bold;
+    font-family: "Quicksand";
+}
+#textopaso11{
+  position: relative;
+  text-decoration: none;
+    font-family: "Quicksand";
+  color: #2E2EFE;
+  text-align: center;
+  top: -60px;
+  left: -28%;
+  font-weight: bold;
+}
+#titulopaso2{
+  position: relative;
+  font-family: "Quicksand";
+  color: #FE6F5E;
+  text-align: left;
+  top: -70px;
+  font-size: 25px;
+  font-weight: bold;
+}
+
+#textopaso2{
+  position: relative;
+  text-decoration: none;
+  color: #2E2EFE;
+  text-align: center;
+  top: -85px;
+  left: -25%;
+  font-weight: bold;
+    font-family: "Quicksand";
+}
+
+#titulopaso3{
+  position: relative;
+  font-family: "Quicksand";
+  color: #FE6F5E;
+  text-align: left;
+  top: -105px;
+  font-size: 25px;
+  font-weight: bold;
+}
+
+#textopaso3{
+  position: relative;
+  text-decoration: none;
+  color: #2E2EFE;
+  text-align: center;
+  top: -125px;
+  left: -23%;
+  font-weight: bold;
+    font-family: "Quicksand";
+}
+
+#titulopaso4{
+  position: relative;
+  font-family: "Quicksand";
+  color: #FE6F5E;
+  text-align: left;
+  top: -135px;
+  font-size: 25px;
+  font-weight: bold;
+}
+
+#textopaso4{
+  position: relative;
+  text-decoration: none;
+  color:#2E2EFE;
+  text-align: center;
+    font-family: "Quicksand";
+  top: -155px;
+  left: -18%;
+  font-weight: bold;
+}
+
+#titulopaso5{
+  position: relative;
+  font-family: "Quicksand";
+  color: #FE6F5E;
+  text-align: left;
+  top: -165px;
+  font-size: 25px;
+  font-weight: bold;
+}
+
+#textopaso5{
+  position: relative;
+  text-decoration: none;
+  color: #2E2EFE;
+  text-align: center;
+  top: -185px;
+  left: -27%;
+  font-weight: bold;
+    font-family: "Quicksand"; 
+}
+
+#Div_Imagen_R{
+  width: 25%;
+  height: 300px;
+  position: relative;
+  top: -400px;
+  right: -60%
+}
+
+#flecha_regresar{
+  position: relative;
+  top: -240px;
+
+}
