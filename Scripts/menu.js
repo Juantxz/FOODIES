@@ -33,6 +33,6 @@ document.getElementById('Menu').innerHTML =
 
   '  </li>' +
 
-  '<li> <a href="../HTML/Login.html"><p id="salir"><strong>Salir</strong></p></a></li>' +
+  '<li> <a href="./Login.html"><p id="salir"><strong>Salir</strong></p></a></li>' +
 
   '</ul>' + '</div>';

@@ -22,7 +22,7 @@ setTimeout(function() {
 
                $("#imagen_regresarR").click(function(event) {
                  /* Act on the event */
-               window.location.href = '../HTML/Principal.html';
+               window.location.href = './Principal.html';
                });
 
 //$("#textopaso1").attr("href","Registrar_Usuario.html");

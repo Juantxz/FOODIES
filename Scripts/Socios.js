@@ -105,7 +105,7 @@ $(document).ready(function() {
 
   $("#imagen_regresarR").click(function(event) {
     /* Act on the event */
-    window.location.href = '../HTML/Principal.html';
+    window.location.href = './Principal.html';
   });
 
 });

@@ -3,7 +3,7 @@ $(document).ready(function() {
   //El back de registrar.
   $("#imagen_regresar").click(function(event) {
     /* Act on the event */
-    window.location.href = '../HTML/Login.html';
+    window.location.href = './Login.html';
   });
 
   $("#b_registrar").click(function(event) {
@@ -52,13 +52,13 @@ $(document).ready(function() {
               };
               $.ajax({
                 data: parametros,
-                url: '../Scripts/escribir_json.php',
+                url: './Scripts/escribir_json.php',
                 type: 'post',
                 beforeSend: function() {
                   alert("Procesando, espere por favor...");
                 },
                 success: function(response) {
-                  window.location.href = '../HTML/Login.html';
+                  window.location.href = './Login.html';
                 },
                 error: function(error, xhr, status) {
                   alert(error)

@@ -56,7 +56,7 @@ $(document).ready(function() {
       $("#mostrar_carrito").append('<p id="total' + i + '"></ p>');
 
       $("#total" + i).text(carrito.ordenes[i].producto + "     $" + carrito.ordenes[i].precio);
-      $("#total" + i).append('<img class="img_menos"  id="img_quitar' + i + '" src="../Imagenes_Pagina/eliminar.png"></img>');
+      $("#total" + i).append('<img class="img_menos"  id="img_quitar' + i + '" src="./Imagenes_Pagina/eliminar.png"></img>');
     }
     $("#total_pagar").text("Total : $" + total);
     $("#mostrar_carrito").toggle(1000);
@@ -88,7 +88,7 @@ $(document).ready(function() {
 
       if (evento_mex == 0||evento_cambio_seccion==1) {
       $(".Prods").empty();
-        $.getJSON('../Json/Comida_Mexican.json?nocache=123', function(data) {
+        $.getJSON('./Json/Comida_Mexican.json?nocache=123', function(data) {
           for (var i = 0; i < data.length; i++) {
             $("#comida img").attr('src', "");
             $('.Prods').append('<div id="mex' + i + '"></ div>');
@@ -98,7 +98,7 @@ $(document).ready(function() {
               $('#mex' + i).append('<button id="mex_boton' + i + '">Pedir</ button>');
             }
             $('#mex_precio' + i).text("$" + data[i].precio);
-            $('#mex_img' + i).attr('src', '../Imagenes_Productos/Mexicana/' + data[i].imagen);
+            $('#mex_img' + i).attr('src', './Imagenes_Productos/Mexicana/' + data[i].imagen);
           }
           $(".Prods button").click(function(event) {
             //AQUI COMIENZA EL PINCHE CARRITO
@@ -125,7 +125,7 @@ $(document).ready(function() {
 
       else{
           $(".Prods").show();
-          $.getJSON('../Json/Comida_Mexican.json?nocache=123', function(data) {
+          $.getJSON('./Json/Comida_Mexican.json?nocache=123', function(data) {
             $(".Prods button").click(function(event) {
               //AQUI COMIENZA EL PINCHE CARRITO
               var id = event.target.id.match(/\d+$/)[0];
@@ -151,7 +151,7 @@ $(document).ready(function() {
       //AQUI APARECEN PLATILLOS DE COMIDA ASIATICA
       if (evento_asiatica == 0||evento_cambio_seccion==1) {
         $(".Prods").empty();
-        $.getJSON('../Json/Comida_Asiatica.json?nocache=123', function(data) {
+        $.getJSON('./Json/Comida_Asiatica.json?nocache=123', function(data) {
           for (var i = 0; i < data.length; i++) {
             $("#comida img").attr('src', "");
             $('.Prods').append('<div id="mex' + i + '"></ div>');
@@ -161,7 +161,7 @@ $(document).ready(function() {
               $('#mex' + i).append('<button id="asn_boton' + i + '">Pedir</ button>');
             }
             $('#mex_precio' + i).text("$" + data[i].precio);
-            $('#mex_img' + i).attr('src', '../Imagenes_Productos/Asiatica/' + data[i].imagen);
+            $('#mex_img' + i).attr('src', './Imagenes_Productos/Asiatica/' + data[i].imagen);
           }
 
           $(".Prods button").click(function(event) {
@@ -187,7 +187,7 @@ $(document).ready(function() {
       }
       else{
           $(".Prods").show();
-          $.getJSON('../Json/Comida_Asiatica.json?nocache=123', function(data) {
+          $.getJSON('./Json/Comida_Asiatica.json?nocache=123', function(data) {
             $(".Prods button").click(function(event) {
               //AQUI COMIENZA EL PINCHE CARRITO
               var id = event.target.id.match(/\d+$/)[0];
@@ -214,7 +214,7 @@ $(document).ready(function() {
 
       if (evento_exotica == 0||evento_cambio_seccion==1) {
         $(".Prods").empty();
-        $.getJSON('../Json/Comida_Exotica.json?nocache=123', function(data) {
+        $.getJSON('./Json/Comida_Exotica.json?nocache=123', function(data) {
           for (var i = 0; i < data.length; i++) {
             $("#comida img").attr('src', "");
             $('.Prods').append('<div id="mex' + i + '"></ div>');
@@ -224,7 +224,7 @@ $(document).ready(function() {
               $('#mex' + i).append('<button id="asn_boton' + i + '">Pedir</ button>');
             }
             $('#mex_precio' + i).text("$" + data[i].precio);
-            $('#mex_img' + i).attr('src', '../Imagenes_Productos/Exotica/' + data[i].imagen);
+            $('#mex_img' + i).attr('src', './Imagenes_Productos/Exotica/' + data[i].imagen);
           }
 
           $(".Prods button").click(function(event) {
@@ -250,7 +250,7 @@ $(document).ready(function() {
       }
       else{
           $(".Prods").show();
-          $.getJSON('../Json/Comida_Exotica.json?nocache=123', function(data) {
+          $.getJSON('./Json/Comida_Exotica.json?nocache=123', function(data) {
             $(".Prods button").click(function(event) {
               //AQUI COMIENZA EL PINCHE CARRITO
               var id = event.target.id.match(/\d+$/)[0];
@@ -275,7 +275,7 @@ evento_cambio_seccion=1;
       //AQUI APARECEN PLATILLOS DE COMIDA GOURMET
       if (evento_gourmet == 0||evento_cambio_seccion==1) {
         $(".Prods").empty();
-        $.getJSON('../Json/Comida_Gourmet.json?nocache=123', function(data) {
+        $.getJSON('./Json/Comida_Gourmet.json?nocache=123', function(data) {
           for (var i = 0; i < data.length; i++) {
             $("#comida img").attr('src', "");
             $('.Prods').append('<div id="mex' + i + '"></ div>');
@@ -285,7 +285,7 @@ evento_cambio_seccion=1;
               $('#mex' + i).append('<button id="asn_boton' + i + '">Pedir</ button>');
             }
             $('#mex_precio' + i).text("$" + data[i].precio);
-            $('#mex_img' + i).attr('src', '../Imagenes_Productos/Gourmet/' + data[i].imagen);
+            $('#mex_img' + i).attr('src', './Imagenes_Productos/Gourmet/' + data[i].imagen);
           }
 
           $(".Prods button").click(function(event) {
@@ -311,7 +311,7 @@ evento_cambio_seccion=1;
       }
       else{
           $(".Prods").show();
-          $.getJSON('../Json/Comida_Exotica.json?nocache=123', function(data) {
+          $.getJSON('./Json/Comida_Exotica.json?nocache=123', function(data) {
             $(".Prods button").click(function(event) {
               //AQUI COMIENZA EL PINCHE CARRITO
               var id = event.target.id.match(/\d+$/)[0];
@@ -340,12 +340,12 @@ evento_quita_prestaña=1;
   $("#Socios").click(function(event) {
     /* Act on the event */
     $("#Opciones").hide();
-    $("#Socios").attr("href", "../HTML/Nuestro_Socios.html");
+    $("#Socios").attr("href", "./Nuestro_Socios.html");
   });
   $("#Pedir").click(function(event) {
     /* Act on the event */
     $("#Opciones").hide();
-    $("#Pedir").attr("href", "../HTML/Pasos_Pedir.html");
+    $("#Pedir").attr("href", "./Pasos_Pedir.html");
 
   });
   $("#Cuenta").click(function(event) {
@@ -354,10 +354,10 @@ evento_quita_prestaña=1;
     $("#Opciones").hide();
     $("#miCuenta").toggle(500);
     $("#nombre").text("Nombre : " + localStorage.getItem("usuario"));
-    $.getJSON('../Json/usuario.json?nocache=123', function(data) {
+    $.getJSON('./Json/usuario.json?nocache=123', function(data) {
       for (var i = 0; i < data.length; i++) {
         if (localStorage.getItem("usuario") == data[i].username) {
-          $("#imagen_perfil").attr('src', '../Imagenes_Usuarios/' + data[i].imagen);
+          $("#imagen_perfil").attr('src', './Imagenes_Usuarios/' + data[i].imagen);
 
           $("#direccion").text("Direccion : " + data[i].direccion);
 

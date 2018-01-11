@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <link rel="stylesheet" href="Estilos/diseno.css">
+    <meta charset="utf-8">
+    <title>FOODIES</title>
+</head>
+
+<body>
+
+    <script src="Scripts/jquery-3.2.1.js" charset="utf-8"></script>
+    <script src="Scripts/login.js"></script>
+    <h1 class="m13">FOODDIES.</h1>
+    <form action="login.php" method="post">
+        <div class="Login">
+            <div class="back">
+                <img src="Imagenes_Pagina/previous.png" alt="">
+            </div>
+            <table class="tabla">
+                <tr>
+                    <th>
+                        <div class="man">
+                            <img src="Imagenes_Pagina/man.png" alt="" id="boss">
+                            <p>Usuario</p>
+                        </div>
+                    </th>
+                    <th>
+                        <div class="boss">
+                            <img src="Imagenes_Pagina/menu.png" alt="" id="boss">
+                            <p>Invitado</p>
+                        </div>
+                    </th>
+
+                </tr>
+            </table>
+
+            <div class="crear">
+                <a href="Registrar_Usuario.html" id="registrar_user">Crear Usuario</a>
+            </div>
+
+            <div class="texto">
+                <label for="usuario">Usuario</label>
+                <input id="usuario" name="usuario" type="text" required placeholder="Usuario"/></p>
+                <label for="pass">Password</label>
+                <input id="pass" name="pass" type="password" required placeholder="Contraseña"/></p>
+                <button type="button" name="button" class="button">Ingresar</button>
+                <div class="recuperar">
+                    <a href="HTML/Recuperar_Contra.html" id="recuperar_user">¿Has olvidado tu contraseña?</a>
+                </div>
+
+            </div>
+
+        </div>
+
+    </form>
+</body>
+
+</html>

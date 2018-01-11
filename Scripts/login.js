@@ -20,7 +20,7 @@ $(document).ready(function() {
     /* Act on the event */
     sessionStorage.setItem('sesion_id', 'invitado');
     alert("Bienvenido Invitado");
-    window.location.href = '../HTML/Principal.html';
+    window.location.href = './Principal.html';
 
 
   });
@@ -31,14 +31,14 @@ $(document).ready(function() {
   $(".button").click(function(event) {
     localStorage.setItem('usuario', $("#usuario").val());
     localStorage.setItem('password', $("#pass").val());
-    $.getJSON('../Json/usuario.json?nocache=123ff', function(data) {
+    $.getJSON('./Json/usuario.json?nocache=123ff', function(data) {
       for (var i = 0; i < data.length; i++) {
         console.log(data);
         if (localStorage.getItem("usuario") == data[i].username && localStorage.getItem("password") == data[i].password) {
           alert("Bienvenido " + data[i].username);
           sessionStorage.setItem('sesion_id', data[i].username);
           sessionStorage.setItem('ubicacion', data[i].direccion);
-          window.location.href = '../HTML/Principal.html';
+          window.location.href = './Principal.html';
           break;
         } else {
           $("#usuario").val("");

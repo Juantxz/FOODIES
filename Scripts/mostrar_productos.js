@@ -1,5 +1,5 @@
 $(document).ready(function() {
-  var jsonURL = "../Json/productos.json";
+  var jsonURL = "./Json/productos.json";
   var imgList = [];
 
   $.getJSON(jsonURL, function(json) {
@@ -15,7 +15,7 @@ $(document).ready(function() {
 
     function Slider() {
       $('#comida').fadeOut(5000, function() {
-        $(this).attr('src', '../Imagenes_Productos/'+imgList[(imgList.length++) % cnt]).fadeIn(5000);
+        $(this).attr('src', './Imagenes_Productos/'+imgList[(imgList.length++) % cnt]).fadeIn(5000);
       });
     };
 
